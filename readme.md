@@ -23,7 +23,7 @@ sql server needs to be changed according to the settings.
 However, this is a local server. It has own port number, so that should change it as your local server port number.
 At this point, There is a static variable named "portNumber". It must be changed to the computer server port to be used.
 
-- After this 2 important changes, the project will run smoothly.
+- After 2 important changes, the project will run smoothly.
 After the project has been built, the database will be created;
 
 You may need run this command as well.
@@ -35,5 +35,4 @@ commands should be written.
 
 You can then view it in the browser.
 
--I added dummy content in HomeController to get faster results.
-Use it if you wish.
+-I added dummy content in HomeController to get faster results.Use it if you wish.
