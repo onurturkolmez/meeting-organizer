@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MeetingOrganizer.Models.Models.Meeting>
+<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <h2 style="text-align:center;">All Meetings</h2>
+        @if (Model.Count() > 0)
+        {
+            foreach (var item in Model)
+            {
+                <div class="panel panel-primary genel" style="display: block;">
+                    <div class="panel-heading">
+                        <a href="#" style="color:#fff" data-value="26">
+                            <i class="fa fa-check"></i>
+                            @item.Header
+                        </a>
+                        <ul style="list-style: none;float: right;">
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#"
+                                   style="color: white;text-decoration: none;">
+                                    <span class="fa fa-cog"></span>
+                                </a>
+                                <ul class="dropdown-menu" style="margin-left: -10px;padding-right: 3px;">
+                                    <li>
+                                        <a href="@Url.Action("Update","Home",item)">
+                                            Edit
+                                        </a>
+                                    </li>
+                                    <li style="margin-bottom:-20px;">
+                                            @Html.ActionLink("Delete", "DeleteMeeting","Home", new { id = item.MeetingId }, new { onclick = "return confirm('Are you sure you wish to delete this meeting?');" });
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="panel-body">
+                        <i class="fa fa-user-plus"></i>
+                        @item.Participants
+                    </div>
+                    <div class="panel-footer">
+                        <span>
+                            <i class="fa fa-calendar"></i>
+                            <b>
+                                @DateTime.ParseExact(@item.MeetingDate, "yyyy-MM-dd", System.Globalization.CultureInfo.InvariantCulture).ToString("dd MMMM dddd")
+                            </b>
+                        </span>
+                        <span style="float:right">
+                            <i class="fa fa-clock-o"></i>
+                            @item.StartTime - @item.EndTime
+                        </span>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p style="text-align:center;">Unfortunately, there is no meeting on our records :(</p>
+        }
+
+    </div>
+</div>

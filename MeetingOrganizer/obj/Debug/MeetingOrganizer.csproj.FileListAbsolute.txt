@@ -1,0 +1,274 @@
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\ApplicationInsights.config
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\csc.exe
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\vbc.exe
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\VBCSCompiler.exe
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.dll.config
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.pdb
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Antlr3.Runtime.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.SqlServer.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Web.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.WindowsServer.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.ApplicationInsights.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Google.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Newtonsoft.Json.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Owin.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Net.Http.Formatting.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Helpers.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.Owin.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.WebHost.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Mvc.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Optimization.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Razor.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Deployment.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Razor.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\WebGrease.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Web.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.WindowsServer.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.ApplicationInsights.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Newtonsoft.Json.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Net.Http.Formatting.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Helpers.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.WebHost.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Mvc.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Optimization.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Razor.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Deployment.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Razor.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Antlr3.Runtime.pdb
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.SqlServer.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Google.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.Owin.xml
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.dll
+c:\users\onur\documents\visual studio 2015\Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.pdb
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\ApplicationInsights.config
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\csc.exe
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\vbc.exe
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.dll.config
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.pdb
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Antlr3.Runtime.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.SqlServer.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Web.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Newtonsoft.Json.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Owin.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Net.Http.Formatting.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Helpers.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.Owin.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.WebHost.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Mvc.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Optimization.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Razor.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\WebGrease.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Web.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Newtonsoft.Json.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Net.Http.Formatting.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Helpers.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.WebHost.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Mvc.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Optimization.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Razor.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Antlr3.Runtime.pdb
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.SqlServer.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.Owin.xml
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csprojAssemblyReference.cache
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csproj.CopyComplete
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.dll
+E:\Projects\Visual Studio Projects\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.pdb
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\ApplicationInsights.config
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\csc.exe
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\vbc.exe
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.dll.config
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\MeetingOrganizer.pdb
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Antlr3.Runtime.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.SqlServer.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Web.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Newtonsoft.Json.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Owin.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Net.Http.Formatting.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Helpers.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.Owin.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.WebHost.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Mvc.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Optimization.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Razor.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\WebGrease.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.Web.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Newtonsoft.Json.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Net.Http.Formatting.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Helpers.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.WebHost.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Mvc.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Optimization.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Razor.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Antlr3.Runtime.pdb
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\EntityFramework.SqlServer.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\bin\System.Web.Http.Owin.xml
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csprojAssemblyReference.cache
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csproj.CoreCompileInputs.cache
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.csproj.CopyComplete
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.dll
+E:\Projects\Development\MeetingOrganizer\MeetingOrganizer\obj\Debug\MeetingOrganizer.pdb
