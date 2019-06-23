@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web;
@@ -14,7 +15,7 @@ namespace MeetingOrganizer.Controllers
 {
     public class HomeController : Controller
     {
-        //static port number for every api url
+        //static port number for every api url  
         public static string portNumber = "15347";
 
         public HomeController()
@@ -58,6 +59,41 @@ namespace MeetingOrganizer.Controllers
 
             return RedirectToAction("Index");
         }
+
+        public class Country
+        {
+            public string[] altSpellings { get; set; }
+            public double area { get; set; }
+            public string capital { get; set; }
+            public string[] currencies { get; set; }
+            public double[] latlng { get; set; }
+            public string name { get; set; }
+            public double population { get; set; }
+            public string[] timezones { get; set; }
+            public string[] topLevelDomain { get; set; }
+            public string[] callingCodes { get; set; }
+            public string region { get; set; }
+            public string subRegion { get; set; }
+            public string nativeName { get; set; }
+            public string[] languages { get; set; }
+        }
+
+        public static int getCountries(string s)
+        {
+            Console.WriteLine("Making API Call...");
+            using (var client = new HttpClient(new HttpClientHandler { AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate }))
+            {
+                client.BaseAddress = new Uri("https://api.stackexchange.com/2.2/");
+                HttpResponseMessage response = client.GetAsync("https://jsonmock.hackerrank.com/api/countries/search?name=" + s + "&where=p").Result;
+                response.EnsureSuccessStatusCode();
+                string result = response.Content.ReadAsStringAsync().Result;
+                //JsonConvert.DeserializeObject<>
+    
+            }
+
+            return 1;
+        }
+
 
         //get speacial meeting values (ain't used)
         public async Task<ActionResult> GetMeeting(string id)
